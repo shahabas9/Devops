@@ -98,6 +98,27 @@ print kernal release version
 
 5. uname -o print your operating system 
 
+----------------------------------------------------------------------------
+
+wc
+it describes the word count from a file.
+eg:
+wc -c devops.txt it will give the number characters
+wc -l devops.txt it will give the number of lines
+wc -w devops.txt it will give the number of words
+
+-----------------------------------------------------------------------------
+head 
+this command used for print first line of a file
+head -n3 file.txt this will provide the first 3 lines of the files.
+
+cut 
+this command used to print the first colomn of the file
+
+cut -f2 file2.csv the output gives the second column in the csv file
+cut -f1,3 file2.csv this output give the first and the 3rd column of the csv file.
+
+----------------------------------------------------------------------------------------------
 
 
 
