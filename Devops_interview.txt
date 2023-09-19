@@ -1,5 +1,5 @@
 1. What is the need of IAM?
- IAM is a fundamental service provided by AWS (Amazon Web Services) that allows you to manage access to AWS resources securely.
+ IAM is a fundamental service provided by AWS (Amazon Web Services) that allows you to manage access to AWS resources securely.IAM can manage policies and permission to the users and groups and it can add/delete the users and groups.
  
 2.If i am a non tech person, how will you define policies in IAM?
 policies are set of rules and regulations.for example you line in a apartment building but you can acess only to room no307 and you can do everything you want. but you are not acess into another rooms.
